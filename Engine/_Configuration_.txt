@@ -1,0 +1,7 @@
+X Start is 0
+Y Start is 0
+Frame Width is 16
+Frame Height is 16
+Number of Frames is 5
+Frames per Second is 12
+Useless Data is Useless

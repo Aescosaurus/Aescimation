@@ -1,0 +1,6 @@
+X Start is 0
+Y Start is 0
+Frame Width is 32
+Frame Height is 32
+Number of Frames is 5
+Frames per Second is 24
